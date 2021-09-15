@@ -1,0 +1,4 @@
+ward A
+patient number 1234
+paracetamol
+bed number 4
